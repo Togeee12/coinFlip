@@ -1,2 +1,2 @@
 # coinFlip
-Easy Cpp program which flips a coin. 
+Easy Cpp program which flips a coin.
